@@ -1,8 +1,8 @@
 Hi, I'm Dima Shirikov, a Data Analyst with experience in Software Development and Product Management. 
-- I hold a BE in Engineering Cybernetics and an MSc in Industrial Ecology and Biotechnology.
+- BE in Engineering Cybernetics and an MSc in Industrial Ecology and Biotechnology.
 - I have extensive experience in working cross-functionally with a wide range of departments and teams.
-- I am a data-driven problem-solver with strong analytical skills, and I am very fast at self-learning and grasping new technologies.
-- I am passionate about exploring and visualizing data, and delivering the whole picture with it.
+- Data-driven problem-solver with strong analytical skills, and I am very fast at self-learning and grasping new technologies.
+- Passionate about exploring and visualizing data, and delivering the whole picture with it.
 - I enjoy taking initiative, communicating, and working with customers.
 
 ---
