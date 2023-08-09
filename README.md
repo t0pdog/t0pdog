@@ -1,5 +1,5 @@
 Hi, I'm Dmitry Shirikov, a Data Scientist with experience in Software Development and Product Management. 
-- BE in Engineering Cybernetics and an MSc in Industrial Ecology and Biotechnology.
+- BE in Industrial Engineering and an MSc in Industrial Ecology and Biotechnology.
 - I have extensive experience in working cross-functionally with a wide range of departments and teams.
 - Data-driven problem-solver with strong analytical skills, and I am very fast at self-learning and grasping new technologies.
 - Passionate about exploring and visualizing data, and delivering the whole picture with it.
